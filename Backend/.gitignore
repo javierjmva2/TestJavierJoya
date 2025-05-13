@@ -1,0 +1,44 @@
+## Ignore build results
+bin/
+obj/
+
+## Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+## Ignore Rider files
+.idea/
+*.sln.iml
+
+## Ignore dotnet tools
+/.tools/
+
+## ASP.NET Core
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+## Logs
+*.log
+logs/
+
+## Publish results
+publish/
+
+## Others
+*.db
+*.sqlite
+*.pdb
+
+# dotenv
+.env
+
+# VSCode launch/debug files
+.vscode/launch.json
+.vscode/tasks.json
+
+# Secrets (if any)
+secrets.json

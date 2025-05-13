@@ -1,0 +1,724 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Prj\\TestJavierJoya\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{086846ED-974D-48A5-B084-EDFAB495B157}|TestJavierJoya.Tests\\TestJavierJoya.Tests.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.tests\\ownerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086846ED-974D-48A5-B084-EDFAB495B157}|TestJavierJoya.Tests\\TestJavierJoya.Tests.csproj|solutionrelative:testjavierjoya.tests\\ownerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.infrastructure\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|solutionrelative:testjavierjoya.infrastructure\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\dtos\\ownerlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\dtos\\ownerlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\services\\ownerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\services\\ownerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.domain\\interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|solutionrelative:testjavierjoya.domain\\interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.domain\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|solutionrelative:testjavierjoya.domain\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086846ED-974D-48A5-B084-EDFAB495B157}|TestJavierJoya.Tests\\TestJavierJoya.Tests.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.tests\\testjavierjoya.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{086846ED-974D-48A5-B084-EDFAB495B157}|TestJavierJoya.Tests\\TestJavierJoya.Tests.csproj|solutionrelative:testjavierjoya.tests\\testjavierjoya.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.infrastructure\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|solutionrelative:testjavierjoya.infrastructure\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.api\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|solutionrelative:testjavierjoya.api\\controllers\\ownerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.api\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|solutionrelative:testjavierjoya.api\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\dtos\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\dtos\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.domain\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|solutionrelative:testjavierjoya.domain\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|solutionrelative:testjavierjoya.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\dtos\\ownersearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\dtos\\ownersearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\services\\propertyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\services\\propertyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\interfaces\\ipropertyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\interfaces\\ipropertyappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\interfaces\\iownerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\interfaces\\iownerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\dtos\\propertysearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\dtos\\propertysearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\models\\filterparametersowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\models\\filterparametersowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.domain\\entities\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|solutionrelative:testjavierjoya.domain\\entities\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|solutionrelative:testjavierjoya.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|solutionrelative:testjavierjoya.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\common\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\common\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|solutionrelative:testjavierjoya.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|solutionrelative:testjavierjoya.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\dtos\\propertytracedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\dtos\\propertytracedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\dtos\\propertyimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\dtos\\propertyimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.domain\\entities\\propertytrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|solutionrelative:testjavierjoya.domain\\entities\\propertytrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|solutionrelative:testjavierjoya.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|solutionrelative:testjavierjoya.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42B548-E6EB-40E6-8858-CB1E3105D902}|TestJavierJoya.Application\\TestJavierJoya.Application.csproj|solutionrelative:testjavierjoya.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{975084C9-F4F0-4A66-8058-CCEF2727D74C}|TestJavierJoya.API\\TestJavierJoya.API.csproj|solutionrelative:testjavierjoya.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F60B706-1C62-445E-9049-779C554BB6C2}|TestJavierJoya.Domain\\TestJavierJoya.Domain.csproj|solutionrelative:testjavierjoya.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|solutionrelative:testjavierjoya.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.infrastructure\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|solutionrelative:testjavierjoya.infrastructure\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|e:\\prj\\testjavierjoya\\backend\\testjavierjoya.infrastructure\\config\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033C747C-AB06-4FFC-AD7C-5E4F46E4D92B}|TestJavierJoya.Infrastructure\\TestJavierJoya.Infrastructure.csproj|solutionrelative:testjavierjoya.infrastructure\\config\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "RelativeToolTip": "TestJavierJoya.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:07:08.799Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Repositories\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Infrastructure\\Repositories\\OwnerRepository.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Repositories\\OwnerRepository.cs",
+              "RelativeToolTip": "TestJavierJoya.Infrastructure\\Repositories\\OwnerRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAD4v2MAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:22:13.269Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PropertyAppService.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Services\\PropertyAppService.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Services\\PropertyAppService.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Services\\PropertyAppService.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Services\\PropertyAppService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowEYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:25:12.31Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OwnerAppService.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Services\\OwnerAppService.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Services\\OwnerAppService.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Services\\OwnerAppService.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Services\\OwnerAppService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:05:18.269Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropertiesController.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Controllers\\PropertiesController.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.API\\Controllers\\PropertiesController.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Controllers\\PropertiesController.cs",
+              "RelativeToolTip": "TestJavierJoya.API\\Controllers\\PropertiesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:43:29.415Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OwnersController.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Controllers\\OwnersController.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.API\\Controllers\\OwnersController.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Controllers\\OwnersController.cs",
+              "RelativeToolTip": "TestJavierJoya.API\\Controllers\\OwnersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:24:04.833Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPropertyAppService.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Interfaces\\IPropertyAppService.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Interfaces\\IPropertyAppService.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Interfaces\\IPropertyAppService.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Interfaces\\IPropertyAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:23:58.617Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OwnerServiceTests.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Tests\\OwnerServiceTests.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Tests\\OwnerServiceTests.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Tests\\OwnerServiceTests.cs",
+              "RelativeToolTip": "TestJavierJoya.Tests\\OwnerServiceTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:20:10.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OwnerListDto.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\OwnerListDto.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Dtos\\OwnerListDto.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\OwnerListDto.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Dtos\\OwnerListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:49:52.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOwnerRepository.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Interfaces\\IOwnerRepository.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Domain\\Interfaces\\IOwnerRepository.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Interfaces\\IOwnerRepository.cs",
+              "RelativeToolTip": "TestJavierJoya.Domain\\Interfaces\\IOwnerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:47:02.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Interfaces\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Domain\\Interfaces\\IPropertyRepository.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Interfaces\\IPropertyRepository.cs",
+              "RelativeToolTip": "TestJavierJoya.Domain\\Interfaces\\IPropertyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:41:39.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestJavierJoya.Tests",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Tests\\TestJavierJoya.Tests.csproj",
+              "RelativeDocumentMoniker": "TestJavierJoya.Tests\\TestJavierJoya.Tests.csproj",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Tests\\TestJavierJoya.Tests.csproj",
+              "RelativeToolTip": "TestJavierJoya.Tests\\TestJavierJoya.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T09:19:53.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:39:11.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropertyDto.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\PropertyDto.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Dtos\\PropertyDto.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\PropertyDto.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Dtos\\PropertyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:57:21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OwnerDto.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\OwnerDto.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Dtos\\OwnerDto.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\OwnerDto.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Dtos\\OwnerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:04:20.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Property.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Domain\\Entities\\Property.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\Property.cs",
+              "RelativeToolTip": "TestJavierJoya.Domain\\Entities\\Property.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:31:39.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\Owner.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Domain\\Entities\\Owner.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\Owner.cs",
+              "RelativeToolTip": "TestJavierJoya.Domain\\Entities\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:49:40.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OwnerSearchDto.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\OwnerSearchDto.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Dtos\\OwnerSearchDto.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\OwnerSearchDto.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Dtos\\OwnerSearchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:40:36.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOwnerAppService.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Interfaces\\IOwnerAppService.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Interfaces\\IOwnerAppService.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Interfaces\\IOwnerAppService.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Interfaces\\IOwnerAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:25:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PropertySearchDto.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\PropertySearchDto.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Dtos\\PropertySearchDto.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\PropertySearchDto.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Dtos\\PropertySearchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:35:11.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilterParametersOwner.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Models\\FilterParametersOwner.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Models\\FilterParametersOwner.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Models\\FilterParametersOwner.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Models\\FilterParametersOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:41:33.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PropertyImage.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\PropertyImage.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Domain\\Entities\\PropertyImage.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\PropertyImage.cs",
+              "RelativeToolTip": "TestJavierJoya.Domain\\Entities\\PropertyImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:53:15.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Models\\LoginRequest.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:58:04.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Program.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.API\\Program.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Program.cs",
+              "RelativeToolTip": "TestJavierJoya.API\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAIBJwGwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:18:06.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TestJavierJoya.API\\appsettings.json",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\appsettings.json",
+              "RelativeToolTip": "TestJavierJoya.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T06:17:36.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:23:16.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Common\\Models\\PagedResult.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Common\\Models\\PagedResult.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Common\\Models\\PagedResult.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Common\\Models\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:55:41.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "TestJavierJoya.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:43:36.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Services\\AuthenticationService.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:20:00.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.API\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TestJavierJoya.API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:41:28.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TestJavierJoya.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:22:08.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PropertyTrace.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\PropertyTrace.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Domain\\Entities\\PropertyTrace.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\PropertyTrace.cs",
+              "RelativeToolTip": "TestJavierJoya.Domain\\Entities\\PropertyTrace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:55:01.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PropertyImageDto.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\PropertyImageDto.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Dtos\\PropertyImageDto.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\PropertyImageDto.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Dtos\\PropertyImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:02:39.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PropertyTraceDto.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\PropertyTraceDto.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Dtos\\PropertyTraceDto.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Dtos\\PropertyTraceDto.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Dtos\\PropertyTraceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:02:59.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "TestJavierJoya.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:21:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "TestJavierJoya.Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:04:48.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestJavierJoya.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestJavierJoya.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T16:45:22.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TestJavierJoya.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:22:48.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Config\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Infrastructure\\Config\\JwtSettings.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Config\\JwtSettings.cs",
+              "RelativeToolTip": "TestJavierJoya.Infrastructure\\Config\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:59:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "TestJavierJoya.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:39:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Config\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "TestJavierJoya.Infrastructure\\Config\\MongoDbSettings.cs",
+              "ToolTip": "E:\\Prj\\TestJavierJoya\\Backend\\TestJavierJoya.Infrastructure\\Config\\MongoDbSettings.cs",
+              "RelativeToolTip": "TestJavierJoya.Infrastructure\\Config\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:06:26.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
